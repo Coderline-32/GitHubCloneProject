@@ -1,1 +1,1 @@
-This is the description of my repo
+This project demonstrates how to create branches and resolve conflicts.
